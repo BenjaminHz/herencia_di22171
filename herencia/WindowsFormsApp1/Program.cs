@@ -6,6 +6,7 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {/*programa de herencia es la caracteristica de pasar atributos y metodos a otros objetos o clases*/
+    //actualizacion2
     //clase mama 
     class Operacion
     {
