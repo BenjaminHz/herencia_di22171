@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\herencia",
+    "\\herencia\\WindowsFormsApp1"
   ],
-  "SelectedNode": "\\WindowsFormsApp1.sln",
+  "SelectedNode": "\\herencia\\WindowsFormsApp1\\WindowsFormsApp1.sln",
   "PreviewInSolutionExplorer": false
 }
